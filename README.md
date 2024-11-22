@@ -18,6 +18,6 @@ I'm building a data sonification toolkit for journalists, storytellers, and info
 **Sonification Process:**
 1. Convert data to MIDI in with Python script
 2. Import MIDI file into audio editor (Logic Pro X in this case)
-3. Customize and integrate additional audio layers
-⋅⋅⋅_I also got feedback from sonification friends via the [Decibels Community](https://decibels.community/)_.
+3. Customize and integrate additional audio layers  
+_I also got feedback from sonification friends via the [Decibels Community](https://decibels.community/)_.
 4. Export and share
