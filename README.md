@@ -7,7 +7,7 @@
 * Data from [NYC OpenData](https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/data_preview ), inspired by [Data Is Plural](https://www.data-is-plural.com/archive/2024-09-25-edition/)
 
 **RJI Fellowship:**
-I'm building a data sonification toolkit for journalists, storytellers, and information designers! If you're interested in learning more, check out my [fellowship articles](https://rjionline.org/person/auralee-walmer/) (via the [Reynolds Journalism Institute](https://rjionline.org/)) or reach out at aurawalmer@gmail.com.
+⋅⋅⋅I'm building a data sonification toolkit for journalists, storytellers, and information designers! If you're interested in learning more, check out my [fellowship articles](https://rjionline.org/person/auralee-walmer/) (via the [Reynolds Journalism Institute](https://rjionline.org/)) or reach out at aurawalmer@gmail.com.
 
 **Design Rationale:**
 * **Mapping:** Lower, louder notes correspond to larger eviction rates, while higher, quieter notes correspond to smaller eviction rates. I made this choice because the deeper notes have a more resounding, impactful effect.
