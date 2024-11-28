@@ -1,5 +1,5 @@
 # NYC Evictions Sonification
-### An adaptation of Matt Russo's Data Sonification Tutorial in Python
+## An adaptation of Matt Russo's Data Sonification Tutorial in Python
 
 **References:**
 * Matt Russo's [Tutorial](https://www.youtube.com/watch?v=DUdLRy8i9qI) on YouTube
@@ -21,3 +21,25 @@ I'm building a data sonification toolkit for journalists, storytellers, and info
 3. Customize and integrate additional audio layers  
 (_I also got feedback from sonification friends via the [Decibels Community](https://decibels.community/)_.)
 4. Export and share
+
+**Materials in this Repository:**
+1.  Python script: `nyc-evictions-data2midi.py`  
+_Download this folder for materials needed to _
+3.  Jupyter notebook folder: `Jupyter Notebook Approach`
+4.  Data: `nyc-evictions.csv`
+
+## Methods
+
+### Method 1: Python  
+Open your IDE of choice. Create a working folder and add the following downloaded files from this repo: nyc-evictions.csv, nyc-evictions-data2midi.py, functions.py.  
+
+_Note about the audio_lazy package: there seem to be difficulties installing audio_lazy. The script `functions.py` includes the function definition needed from this package (a manual workaround, basically)._
+
+### Method 2: Jupyter Notebok
+Download files in the Jupyter Notebook Method folder, and upload it to a new space in [Jupyter Notebook](https://jupyter.org/try). 
+
+### If you want to go straight to audio edting...
+This repo also includes the MIDI file output from these methods. Feel free to download `nyc-evictions.mid` file direclty and drop it into your desired audio editing tool. 
+
+
+
