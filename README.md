@@ -23,10 +23,15 @@ I'm building a data sonification toolkit for journalists, storytellers, and info
 4. Export and share
 
 **Materials in this Repository:**
-1.  Python script: `nyc-evictions-data2midi.py`  
-_Download this folder for materials needed to _
-3.  Jupyter notebook folder: `Jupyter Notebook Approach`
-4.  Data: `nyc-evictions.csv`
+1. Python Method (folder): `nyc-evictions-data2midi.py`
+_Download contents of this folder to create this sonification with Python._
+2. Jupyter Notebook Method (folder): `Jupyter Notebook Approach`  
+_Download contents of this folder to create this sonification with Jupyter Notebook._
+3. Data: `nyc-evictions.csv`
+4. Script: `nyc-evictions-data2midi`
+5. Supplemental function file: `functions.py`  
+_Inlucde this in your working folder manually define the str2midi function from audiolazy._
+6. MIDI output: `nyc-evictions.mid`
 
 ## Methods
 
