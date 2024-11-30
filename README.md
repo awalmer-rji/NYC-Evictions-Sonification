@@ -23,7 +23,7 @@ I'm building a data sonification toolkit for journalists, storytellers, and info
 4. Export and share
 
 **Materials in this Repository:**
-1. Python Method (folder): `nyc-evictions-data2midi.py`
+1. Python Method (folder): `nyc-evictions-data2midi.py`  
 _Download contents of this folder to create this sonification with Python._
 2. Jupyter Notebook Method (folder): `Jupyter Notebook Approach`  
 _Download contents of this folder to create this sonification with Jupyter Notebook._
@@ -32,6 +32,8 @@ _Download contents of this folder to create this sonification with Jupyter Noteb
 5. Supplemental function file: `functions.py`  
 _Inlucde this in your working folder manually define the str2midi function from audiolazy._
 6. MIDI output: `nyc-evictions.mid`
+7. Audio (folder): `nyc-evictions-sonification.wav`
+_Sonification audio without explanatory narrative_
 
 ## Methods
 
@@ -46,5 +48,6 @@ Download files in the Jupyter Notebook Method folder, and upload it to a new spa
 ### If you want to go straight to audio edting...
 This repo also includes the MIDI file output from these methods. Feel free to download `nyc-evictions.mid` file direclty and drop it into your desired audio editing tool. 
 
-
+## Project Outcome: Audio + Visual
+Watch the full video with narration, text, data visualization, and animated elements [here](https://youtu.be/8h3_ijIudHo?si=xsKgSc5h8pjoHuvr).
 
